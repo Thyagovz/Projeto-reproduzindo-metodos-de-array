@@ -10,8 +10,8 @@ Não foi necessário a criação de nenhuma função callback, pois suas funçõ
 
 - `map()` -> O método map executa uma função callback para cada elemento do array e retorna um novo array contendo os novos valores.
 
--`filter()` -> O método filter executa uma função callback para cada elemento do array e retorna um novo array contendo apenas os elementos que retornaram true ao passarem pela callback.
+- `filter()` -> O método filter executa uma função callback para cada elemento do array e retorna um novo array contendo apenas os elementos que retornaram true ao passarem pela callback.
 
--`find()` -> O método find executa uma função callback para cada elemento do array e retorna o primeiro elemento que satisfizer a condição da callback.
+- `find()` -> O método find executa uma função callback para cada elemento do array e retorna o primeiro elemento que satisfizer a condição da callback.
 
--`reduce()` -> o método reduce percorre o array e reduz seu valor a um único elemento, conforme a função callback fornecida.
+- `reduce()` -> o método reduce percorre o array e reduz seu valor a um único elemento, conforme a função callback fornecida.
